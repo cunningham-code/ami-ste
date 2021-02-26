@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Music"],{5125:function(e,t,s){"use strict";s.r(t);var n=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},c=[function(){var e=this,t=e.$createElement,s=e._self._c||t;return s("div",{staticClass:"music"},[s("h1",[e._v("This is the music page.")])])}],i=s("2877"),u={},a=Object(i["a"])(u,n,c,!1,null,null,null);t["default"]=a.exports}}]);
+//# sourceMappingURL=Music.051c6dea.js.map
