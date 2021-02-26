@@ -1,0 +1,196 @@
+{
+  "href": "https://api.spotify.com/v1/artists/3xCQDRaZVlQfCEIgbiWjy9/albums?offset=0&limit=5&include_groups=album,single,compilation,appears_on&market=US",
+  "items": [
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KlvKwcScxowO6q1tSKApu"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KlvKwcScxowO6q1tSKApu",
+          "id": "7KlvKwcScxowO6q1tSKApu",
+          "name": "Fly Montag",
+          "type": "artist",
+          "uri": "spotify:artist:7KlvKwcScxowO6q1tSKApu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3xCQDRaZVlQfCEIgbiWjy9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3xCQDRaZVlQfCEIgbiWjy9",
+          "id": "3xCQDRaZVlQfCEIgbiWjy9",
+          "name": "Ami Mura",
+          "type": "artist",
+          "uri": "spotify:artist:3xCQDRaZVlQfCEIgbiWjy9"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5tk6ETKN5dug7uo16D9DZt"
+      },
+      "href": "https://api.spotify.com/v1/albums/5tk6ETKN5dug7uo16D9DZt",
+      "id": "5tk6ETKN5dug7uo16D9DZt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273774ff9ffaa80ccd6e03b4179",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02774ff9ffaa80ccd6e03b4179",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851774ff9ffaa80ccd6e03b4179",
+          "width": 64
+        }
+      ],
+      "name": "Move On",
+      "release_date": "2020-08-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5tk6ETKN5dug7uo16D9DZt"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3xCQDRaZVlQfCEIgbiWjy9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3xCQDRaZVlQfCEIgbiWjy9",
+          "id": "3xCQDRaZVlQfCEIgbiWjy9",
+          "name": "Ami Mura",
+          "type": "artist",
+          "uri": "spotify:artist:3xCQDRaZVlQfCEIgbiWjy9"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4QPzsbAkitKbNk6kYX8RPr"
+      },
+      "href": "https://api.spotify.com/v1/albums/4QPzsbAkitKbNk6kYX8RPr",
+      "id": "4QPzsbAkitKbNk6kYX8RPr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27373826acc20e11f37d26121f7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0273826acc20e11f37d26121f7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485173826acc20e11f37d26121f7",
+          "width": 64
+        }
+      ],
+      "name": "Paradise",
+      "release_date": "2020-05-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4QPzsbAkitKbNk6kYX8RPr"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3xCQDRaZVlQfCEIgbiWjy9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3xCQDRaZVlQfCEIgbiWjy9",
+          "id": "3xCQDRaZVlQfCEIgbiWjy9",
+          "name": "Ami Mura",
+          "type": "artist",
+          "uri": "spotify:artist:3xCQDRaZVlQfCEIgbiWjy9"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2yZlzFaZXL6HDwTpJmAb3N"
+      },
+      "href": "https://api.spotify.com/v1/albums/2yZlzFaZXL6HDwTpJmAb3N",
+      "id": "2yZlzFaZXL6HDwTpJmAb3N",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b93304734aab180e525f209e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b93304734aab180e525f209e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b93304734aab180e525f209e",
+          "width": 64
+        }
+      ],
+      "name": "Losing Feeling",
+      "release_date": "2019-09-06",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2yZlzFaZXL6HDwTpJmAb3N"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KlvKwcScxowO6q1tSKApu"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KlvKwcScxowO6q1tSKApu",
+          "id": "7KlvKwcScxowO6q1tSKApu",
+          "name": "Fly Montag",
+          "type": "artist",
+          "uri": "spotify:artist:7KlvKwcScxowO6q1tSKApu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2z9bLN2vTXPfTEwo7qAsTw"
+      },
+      "href": "https://api.spotify.com/v1/albums/2z9bLN2vTXPfTEwo7qAsTw",
+      "id": "2z9bLN2vTXPfTEwo7qAsTw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736cc4408d40654d1450544055",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026cc4408d40654d1450544055",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516cc4408d40654d1450544055",
+          "width": 64
+        }
+      ],
+      "name": "Combustion",
+      "release_date": "2020-09-03",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:2z9bLN2vTXPfTEwo7qAsTw"
+    }
+  ],
+  "limit": 5,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 4
+}

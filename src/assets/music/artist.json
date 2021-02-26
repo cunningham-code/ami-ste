@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3xCQDRaZVlQfCEIgbiWjy9"
+  },
+  "followers": {
+    "href": null,
+    "total": 80
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3xCQDRaZVlQfCEIgbiWjy9",
+  "id": "3xCQDRaZVlQfCEIgbiWjy9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/a54e6c392f83267977c5f1252df05a09ed934496",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/7a8cad4c0ba05edd88fc8a5a4346e448f5c131e7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/6efb108c9e62a7621f35bde0a99c3326b98d4723",
+      "width": 160
+    }
+  ],
+  "name": "Ami Mura",
+  "popularity": 0,
+  "type": "artist",
+  "uri": "spotify:artist:3xCQDRaZVlQfCEIgbiWjy9"
+}
